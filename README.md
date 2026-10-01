@@ -73,34 +73,3 @@ count  1000.0    1000.0    1000.0
 mean   500.5     45.67     12.3
 ...
 ```
-
-## Testing
-
-- Write unit tests for every public method and run them automatically on each commit.
-- Keep tests isolated and fast; use mocks or stubs for external dependencies.
-
-## Evaluation
-
-- Define clear success criteria and acceptance tests before starting each iteration to ensure the delivered features meet expectations.
-- Collect stakeholder feedback regularly through demos or review sessions and track improvement with measurable KPIs.
-
-## Monitoring
-
-- Implement centralized logging with structured log formats (JSON) for easy parsing and aggregation.
-- Set up alerting thresholds for key metrics (response time, error rate, resource utilization) using tools like Prometheus and Grafana.
-
-## الترجمة
-
-- استخدم أدوات الترجمة الآلية كنقطة بداية ثم راجع النص يدويًا，以确保 الدقة والسياق.
-- حافظ على المصطلحات التقنية كما هي أو اعتمد على قاموس مصطلحات موحد داخل المشروع لتجنب التناقضات.
-
-## Notes
-
-This repo is a test workspace.
-Updated from HUMAIN Chat.
-
-## ملاحظات ترجمة
-
-- راجع المصطلحات المتخصصة بعناية لضمان الدقة والاتساق.
-- استخدم أسلوبًا واضحًا ومختصرًا يراعي السياق الثقافي للجمهور المستهدف.
-- اختبر الترجمة مع متحدثين أصليين قبل اعتمادها النهائي.
