@@ -78,3 +78,8 @@ mean   500.5     45.67     12.3
 
 MIT License
 ghadah test
+
+## Testing
+
+- Write unit tests for every public method and run them automatically on each commit.
+- Keep tests isolated and fast; use mocks or stubs for external dependencies.
