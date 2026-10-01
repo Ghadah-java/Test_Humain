@@ -78,3 +78,8 @@ mean   500.5     45.67     12.3
 
 - Write unit tests for every public method and run them automatically on each commit.
 - Keep tests isolated and fast; use mocks or stubs for external dependencies.
+
+## Evaluation
+
+- Define clear success criteria and acceptance tests before starting each iteration to ensure the delivered features meet expectations.
+- Collect stakeholder feedback regularly through demos or review sessions and track improvement with measurable KPIs.
