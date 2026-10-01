@@ -83,3 +83,8 @@ mean   500.5     45.67     12.3
 
 - Define clear success criteria and acceptance tests before starting each iteration to ensure the delivered features meet expectations.
 - Collect stakeholder feedback regularly through demos or review sessions and track improvement with measurable KPIs.
+
+## Monitoring
+
+- Implement centralized logging with structured log formats (JSON) for easy parsing and aggregation.
+- Set up alerting thresholds for key metrics (response time, error rate, resource utilization) using tools like Prometheus and Grafana.
