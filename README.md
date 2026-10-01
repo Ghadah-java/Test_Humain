@@ -74,11 +74,6 @@ mean   500.5     45.67     12.3
 ...
 ```
 
-## License
-
-MIT License
-ghadah test
-
 ## Testing
 
 - Write unit tests for every public method and run them automatically on each commit.
