@@ -85,3 +85,4 @@ approve-same-GPT-OSS-3
 approve-same-GPT-OSS-4
 approve-same-GPT-OSS-5
 approve-same-GLM-1
+approve-same-GLM-2
