@@ -90,3 +90,4 @@ approve-same-GLM-4
 approve-same-MiniMax-1
 approve-same-MiniMax-2
 approve-same-MiniMax-3
+approve-same-MiniMax-4
