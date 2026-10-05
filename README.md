@@ -94,3 +94,4 @@ approve-same-MiniMax-4
 approve-same-MiniMax-5
 approve-same-Deepseek-1
 approve-same-Deepseek-2
+approve-same-Deepseek-3
