@@ -87,3 +87,4 @@ approve-same-GPT-OSS-5
 approve-same-GLM-1
 approve-same-GLM-2
 approve-same-GLM-4
+approve-same-MiniMax-1
